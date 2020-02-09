@@ -1,5 +1,7 @@
 # Pandoc for AWS Lambda
 
+[![Build Status](https://travis-ci.org/theNBS/pandoc-aws-lambda-binary.svg?branch=master)](https://travis-ci.org/theNBS/pandoc-aws-lambda-binary)
+
 Scripts to compile Pandoc for AWS Lambda instances powered by Amazon Linux 2.x, such as the `nodejs10.x` runtime, and the updated 2018.03 Amazon Linux 1 runtimes. 
 
 ## Usage
