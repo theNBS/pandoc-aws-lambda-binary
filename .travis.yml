@@ -12,3 +12,4 @@ addons:
 services:
   - docker
 sudo: false
+script: make all
